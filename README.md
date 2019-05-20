@@ -15,6 +15,7 @@ UltrasonidoArduinoRaspberrypi
 
 ## Materiales
 - Placa protoboard
+- Sensor ultrasónico HCSR04
 - Led
 - Resistencia 220 ohmios
 - Arduino
@@ -60,14 +61,13 @@ En el programa Distancia se llama distance y tiempo se llama duration
 Distancia= (Tiempo/2)/29 por lo que queda distance=(duration/2)/29
 
 
-Descripción y fórmulas del esquema eléctrico si las hubiese
 ```
 
 ![](fritzing.png)
 
 ## Programación
 
-Descripción interesante sobre la programación
+
 
 ```python
 # Programa en python
