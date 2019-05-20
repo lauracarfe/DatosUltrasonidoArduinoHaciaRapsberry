@@ -11,7 +11,7 @@ authors:
 
 UltrasonidoArduinoRaspberrypi
 
-![](practica.gif)
+![](Esquema eléctrico.jpg)
 
 ## Materiales
 - Placa protoboard
