@@ -26,7 +26,7 @@ UltrasonidoArduinoRaspberrypi
 - 1 Adaptador VGA a HDMI
 
 ## Esquema eléctrico
-Conecta directamente a la placa protoboard el sensor ultrasónico.
+Conecta directamente a la placa protoboard el sensor ultrasónico o también se puede conectar como en la foto.
 
 El pin Trig se encarga de emitir el sonido ultrasónico. En esta práctica se conecta en el pin10 de Arduino.
 
